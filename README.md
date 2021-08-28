@@ -40,7 +40,7 @@ git reset --hard commit_ID    -  go back to that commit ID and changes cannot be
 **Link** - https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Need-to-git-cherry-pick-a-commit-Heres-an-example-how
 </br>
 </br>
-
+</br>
 
 **cherry-pick a commit from another branch to main branch**
 
