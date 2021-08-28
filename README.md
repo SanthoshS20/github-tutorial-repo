@@ -1,17 +1,18 @@
 # github-tutorial-repo
 
 
-Github Hands-on Repo 
+**Github Hands-on Repo **
+
+</br>
+
+
+**Revert all the commits and move to the specific commit**
+
+**Link** :  https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
 
 
 
-Revert all the commits and move to the specific commit
-
-Link :  https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
-
-
-
-Commands:
+**Commands:**
 
 git reset HEAD~1   -  reset the first commit only. Please add the required changes and push it to the remote branch to make the changes
 
@@ -21,21 +22,26 @@ git reset --hard commit_ID    -  go back to that commit ID and changes cannot be
 
 
 
-cherry-pick functionality
+**cherry-pick functionality**
 
-steps:
+
+**steps:**
+
 
 1. get the commit ID from the current branch
 2. git cherry-pick commit ID
 3. push the changes to the remote branch
 
 
-Link - https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Need-to-git-cherry-pick-a-commit-Heres-an-example-how
+
+**Link** - https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Need-to-git-cherry-pick-a-commit-Heres-an-example-how
 
 
-cherry-pick a commit from another branch to main branch
 
-steps:
+**cherry-pick a commit from another branch to main branch**
+
+
+**steps:**
 
 1. checkout the feature branch
 2. get the commit ID
@@ -44,5 +50,5 @@ steps:
 5. Push the changes to the remote branch
 
 
-Link - https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-git-cherry-pick-from-another-branch-to-your-own
+**Link** - https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-git-cherry-pick-from-another-branch-to-your-own
 
